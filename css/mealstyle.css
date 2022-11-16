@@ -1,0 +1,28 @@
+﻿#image-resize {
+    height: 75%;
+    width: 75%;
+}
+.serve {
+    background-color: lightgoldenrodyellow;
+    width:300px;
+    margin: 10px;
+    padding: 25px;
+
+   
+}
+ul li{
+    list-style-type: initial;
+    margin: 10px;
+    
+}
+ol li {
+    list-style-type:upper-roman;
+    margin: 10px;
+   
+}
+footer ul li {
+    list-style-type:none;
+}
+
+
+   
